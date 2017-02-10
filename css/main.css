@@ -179,6 +179,8 @@ header nav {
     font-size: 0;
     line-height: 0;
     margin-bottom: 65px; }
+    .team-content-wrapper .inline-block-list li {
+      vertical-align: top; }
   .team-content-wrapper .photo {
     position: relative;
     height: 200px;
@@ -264,6 +266,7 @@ header nav {
     font-size: 14px;
     line-height: 1.2; }
   .price-content-wrapper .price-list > li {
+    vertical-align: top;
     width: 370px;
     margin: 15px; }
   .price-content-wrapper .price-list h6 {

@@ -206,6 +206,9 @@ header{
 		font-size: 0;
 		line-height: 0;
 		margin-bottom: 65px;
+		li{
+			vertical-align: top;
+		}	
 	}
 	.photo{
 		position: relative;
@@ -309,6 +312,7 @@ header{
 			line-height: 1.2;
 		}
 		>li{
+			vertical-align: top;
 			width: 370px;
 			margin: 15px;
 		}
